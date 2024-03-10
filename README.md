@@ -22,7 +22,7 @@
 <nav>
   <a href="#biography">Biography</a> |
   <a href="#resume">Resume</a> |
-  <a href="#contact">Contact</a>
+  <a href="#contact">singhabhii30@proton.me</a>
 </nav>
 
 <div class="container">
