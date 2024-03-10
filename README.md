@@ -15,7 +15,7 @@
 </head>
 <body>
 <header>
-  <h1>Your Name</h1>
+  <h1>ABHINAV SINGH</h1>
   <p>Web Developer | Designer | Content Creator</p>
 </header>
 
